@@ -1,0 +1,15 @@
+{
+  "pluginName": "quick-delete",
+  "description": "快速删除文件或者文件夹",
+  "version": "0.0.1",
+  "author":"zao",
+  "homepage":"",
+  "preload":"preload.js",
+  "logo":"./assets/image/logo.png",
+  "features": [{
+    "code": "delete file&directory",
+    "explain": "delete file&directory",
+    "icon":"./assets/image/logo.png",
+    "cmds": ["d","delete","删除","删"]
+  }]
+}

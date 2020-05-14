@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "rmraf": "^1.0.3"
+  }
+}
