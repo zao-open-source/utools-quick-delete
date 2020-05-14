@@ -4,6 +4,10 @@
 
 作为utools插件的试水作品，请多多支持，后序会更新新的插件
 
+## 仓库
+
+ https://github.com/lyandzao/utools-quick-delete 
+
 ## 计划
 
 可以在本仓库提出issu，开源
